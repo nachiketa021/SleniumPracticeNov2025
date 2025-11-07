@@ -41,6 +41,8 @@ public class I_Frame_Practice {
 		WebElement radio_B=driver.findElement(By.xpath("(//div[@class='AB7Lab Id5V1'])[2]"));
 		js.executeScript("arguments[0].click();",radio_B);
 		
+		System.out.println("just check for git hub 7 nov 2025 .. you can delete");
+		
 		Thread.sleep(5000);
 		driver.quit();
 		
