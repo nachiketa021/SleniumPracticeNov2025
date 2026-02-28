@@ -31,6 +31,7 @@ public class click_byMouse {
 		r.keyRelease(KeyEvent.VK_DOWN);
 		r.keyRelease(KeyEvent.VK_ENTER);
 
+
 	}
 
 }
